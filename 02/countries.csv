@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name,area,country_code2,country_code3
 Albania,28748,AL,ALB
 Algeria,2381741,DZ,DZA
 American Samoa,199,AS,ASM
+=======
+name,area,country_code2,country_code3
+Albania,28748,AL,ALB
+Algeria,2381741,DZ,DZA
+American Samoa,199,AS,ASM
+>>>>>>> e179c21965b3529d6fd0695c67f1567028c0c5a0
